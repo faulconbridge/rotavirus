@@ -121,7 +121,10 @@ html_theme_options = {
     'navbar_title': "Rotavirus Documentation",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Topics",
+    'navbar_site_name': "Subject",
+
+    # Tab name for the current pages TOC. (Default: "Page")
+    'navbar_pagenav_name': "Topics",
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
