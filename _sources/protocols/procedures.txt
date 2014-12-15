@@ -42,11 +42,11 @@ Procedure for Plating MA104 Cells
 
 **Items Needed:**
 
-\item :math:`1\times` PBS
-\item 0.05% Trypsin
-\item Complete Medium 199
-\item Trypan Blue
-\item 6-well plates (x8)
+* :math:`1\times` PBS
+* 0.05% Trypsin
+* Complete Medium 199
+* Trypan Blue
+* 6-well plates (x8)
 
 In a water bath, warm PBS, Trypsin, and complete Medium 199 to :math:`37^{\circ}`\ C. Aspirate the cell culture medium from the flask. Wash the cell monolayer in :math:`10`\ mL :math:`1\times` PBS and aspirate from the flask. Wash the cell monolayer in 5mL trypsin and aspirate from the flask. Bathe the cell monolayer in :math:`5`\ mL trypsin and incubate at :math:`37^{\circ}`\ C until all cells have detached from the flask. (Check every 2 minutes.) Tap the flask with your hand to detach any remaining cells.
 
