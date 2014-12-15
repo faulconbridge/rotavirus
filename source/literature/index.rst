@@ -6,8 +6,6 @@
 Annotated RV Literature
 =====================================
 
-These pages contain verbatim quotes from the cited papers and are intended only for personal use. The included pages are not for public distribution or dissemination.
-
 Contents:
 
 .. toctree::

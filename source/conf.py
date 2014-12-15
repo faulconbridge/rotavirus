@@ -121,11 +121,11 @@ html_theme_options = {
     'navbar_title': "Rotavirus Documentation",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "A Rotavirus Primer",
+    'navbar_site_name': "Topics",
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
-    'globaltoc_depth': 2,
+    'globaltoc_depth': -1,
 
     # Include hidden TOCs in Site navbar?
     #
@@ -146,7 +146,7 @@ html_theme_options = {
 
     # Location of link to source.
     # Options are "nav" (default), "footer" or anything else to exclude.
-    'source_link_position': "nav",
+    'source_link_position': "footer",
 
     # Bootswatch (http://bootswatch.com/) theme.
     #
@@ -156,12 +156,13 @@ html_theme_options = {
     # Note that this is served off CDN, so won't be available offline.
     'bootswatch_theme': "flatly",
 }
+
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Rotavirus Background Documentation V<release>'
+html_title = 'Rotavirus Documentation'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
